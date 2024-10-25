@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abdelhakhaouari
+- I’m passionate developer with a keen interest in embedded systems and mobile app development.
+- 🌱 I’m currently diving deep into learning Flutter for crossplatform mobile apps and Rust for its power and efficiency,especially in systems programming 
+- feel free to check out my repositories and connect with me!
