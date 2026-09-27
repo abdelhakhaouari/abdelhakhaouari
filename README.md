@@ -143,36 +143,14 @@ I'm currently deepening my knowledge in:
 
 ---
 
-## 🎯 Areas of Interest
-
-```text
-Embedded Systems
-       │
-       ├── Real-Time Systems
-       ├── STM32 / ARM
-       ├── Embedded C/C++
-       └── FreeRTOS
-              │
-              ▼
-         Motion Control
-              │
-              ▼
-           Robotics
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-   Perception    Navigation
-       │             │
-       └──────┬──────┘
-              ▼
-      Autonomous Systems
 ## 📫 Let's Connect
 
 I'm interested in robotics, embedded systems, autonomous systems, and engineering projects.
 
 I'm also open to connecting with people working in these fields and discussing projects, research, and engineering opportunities.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhak-haouari-52b231219/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail to:haouari.abdelhak1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haouari.abdelhak1@gmail.com)
 
 
 ---
