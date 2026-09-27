@@ -1,64 +1,177 @@
 # Hey there! I'm HAOUARI Abdelhak 👋
 
-> 5th-year Electronics & Embedded Systems Engineering Student  
-> Building things that blink, communicate, and occasionally fly 
+> Robotics & Embedded Systems Engineer 
+> I build real-time embedded systems and advanced robotic systems, from motion control to autonomous navigation.
 
 ---
 
 ## 🧠 About Me
 
-I'm a final-year electronics student passionate about bridging the gap between hardware and software. Whether it's wiring up a microcontroller at 2am or routing PCB traces until they look just right, I love the moment a circuit comes to life for the first time.
+I'm a graduate engineering student specializing in **Intelligent Robotics and Embedded Systems**.
 
-When I'm not debugging mysterious hardware issues, I'm probably reading datasheets, experimenting with wireless protocols, or convincing myself that *one more* dev board is a reasonable purchase.
+My interests lie at the intersection of **embedded software, robotics, control systems, and autonomous systems**. I enjoy designing systems where hardware and software work together — from low-level microcontroller programming and real-time control to robotic perception and autonomous navigation.
+
+My current focus includes:
+
+- 🤖 Intelligent robotics & autonomous systems
+- ⚙️ Motion control & control systems
+- 🔧 Real-time embedded systems
+- 🧠 Robot perception & state estimation
+- 🚗 Autonomous navigation
+- 💻 Embedded C/C++ & Python
+
+I'm currently building projects that combine **microcontrollers, sensors, actuators, control algorithms, and robotic software**.
 
 ---
 
-## 🛠 What I Work With
+## 🚀 Featured Projects
 
-### Microcontrollers & Embedded Systems
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+### 🛟 Orca — Intelligent Lifeguard Buoy
 
-- Bare-metal C/C++ programming & HAL/CMSIS
-- RTOS (FreeRTOS) — tasks, queues, semaphores
-- Communication protocols: UART, SPI, I2C, CAN
+An embedded robotic buoy designed to assist lifeguards by autonomously navigating toward a selected target while avoiding obstacles.
 
-### PCB Design
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+**Technologies:**
 
-- Schematic capture & multi-layer PCB layout
-- Design for manufacturability (DFM) & signal integrity
-- Component selection, BOM management, and prototyping
+`STM32F4` `ESP32` `FreeRTOS` `C` `C++` `GPS` `IMU` `PWM` `UART` `MQTT`
 
-### IoT & Wireless Systems
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+**Main topics:**
 
-- Wi-Fi, Bluetooth, LoRa, and Zigbee protocols
-- MQTT, HTTP, and REST API integration
-- Edge computing and cloud connectivity (AWS IoT, MQTT brokers)
+- Real-time embedded control
+- Dual-thruster motion control
+- Sensor integration
+- GPS-based navigation
+- Wireless communication
+- Autonomous obstacle avoidance
 
-### FPGA & Digital Design
-![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=amd&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=amd&logoColor=white)
- 
-- VHDL / Verilog RTL design
-- Simulation & synthesis with Xilinx Vivado
-- Implementation and timing analysis on Xilinx / Intel FPGAs
- 
-### Analog Circuit Design
-![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-003087?style=for-the-badge&logoColor=white)
- 
-- Schematic entry and SPICE-level simulation in Cadence Virtuoso
-- Analog IC design: amplifiers, filters, bias circuits
-- AC, DC, and transient analysis
- 
+🔗 [View the project](https://github.com/abdelhakhaouari)
+
 ---
 
-## 📫 Let's Connect!
+### 📡 IoT NFC Student Attendance System
 
-I'm always up for interesting projects, internship opportunities, or just a good chat about hardware!
+An IoT-based attendance system using NFC identification, a Raspberry Pi gateway, a cloud backend, and a web dashboard.
 
+**Technologies:**
+
+`Raspberry Pi` `PN532` `Python` `Vue.js` `Supabase` `MQTT` `REST API`
+
+**Main topics:**
+
+- NFC-based identification
+- Embedded/edge computing
+- Real-time data synchronization
+- Web dashboard
+- IoT architecture
+
+🔗 [View the project](https://github.com/abdelhakhaouari/iot-nfc-attendance-system)
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 Robotics & Autonomous Systems
+
+- Robot modeling and kinematics
+- Mobile robotics
+- Motion control
+- Autonomous navigation
+- State estimation
+- Sensor integration
+- ROS 2
+
+### 🔧 Embedded Systems
+
+- STM32 / ARM Cortex-M
+- ESP32
+- Embedded C/C++
+- Bare-metal programming
+- STM32 HAL / CMSIS
+- FreeRTOS
+- Real-time systems
+- Interrupts, timers, PWM and DMA
+
+### ⚙️ Control & Electronics
+
+- PID control
+- Motor control
+- Sensors and actuators
+- UART / SPI / I²C / CAN
+- Digital electronics
+- Embedded hardware/software integration
+
+### 💻 Software & Tools
+
+- C / C++
+- Python
+- Git / GitHub
+- Linux
+- ROS 2
+- MATLAB / Simulink
+- STM32CubeIDE
+- PlatformIO
+
+### 🔲 FPGA & Digital Design
+
+- VHDL
+- RTL design
+- Xilinx Vivado
+- FPGA implementation
+- Digital system design
+
+### 🔬 Electronics & IC Design
+
+- Electronic circuit design
+- PCB design with KiCad
+- Circuit simulation
+- Cadence Virtuoso
+- SPICE simulation
+- Analog and digital electronics
+
+---
+
+## 📚 Currently Learning
+
+I'm currently deepening my knowledge in:
+
+- ROS 2
+- Autonomous mobile robotics
+- Robot navigation
+- State estimation
+- Sensor fusion
+- Advanced motion control
+- Real-time robotic systems
+- Embedded C++
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+Embedded Systems
+       │
+       ├── Real-Time Systems
+       ├── STM32 / ARM
+       ├── Embedded C/C++
+       └── FreeRTOS
+              │
+              ▼
+         Motion Control
+              │
+              ▼
+           Robotics
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   Perception    Navigation
+       │             │
+       └──────┬──────┘
+              ▼
+      Autonomous Systems
+## 📫 Let's Connect
+
+I'm interested in robotics, embedded systems, autonomous systems, and engineering projects.
+
+I'm also open to connecting with people working in these fields and discussing projects, research, and engineering opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhak-haouari-52b231219/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail to:haouari.abdelhak1@gmail.com)
 
