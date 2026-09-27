@@ -26,7 +26,7 @@ I'm currently building projects that combine **microcontrollers, sensors, actuat
 
 ## 🚀 Featured Projects
 
-### 🛟 Orca — Intelligent Lifeguard Buoy
+### 🛟 Intelligent Lifeguard Buoy
 
 An embedded robotic buoy designed to assist lifeguards by autonomously navigating toward a selected target while avoiding obstacles.
 
@@ -43,7 +43,6 @@ An embedded robotic buoy designed to assist lifeguards by autonomously navigatin
 - Wireless communication
 - Autonomous obstacle avoidance
 
-🔗 [View the project](https://github.com/abdelhakhaouari)
 
 ---
 
